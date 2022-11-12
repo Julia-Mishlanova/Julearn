@@ -1,0 +1,8 @@
+C:\Users\Naitoasu\source\repos\Julearn\Julearn\bin\Debug\Julearn.exe.config
+C:\Users\Naitoasu\source\repos\Julearn\Julearn\bin\Debug\Julearn.exe
+C:\Users\Naitoasu\source\repos\Julearn\Julearn\bin\Debug\Julearn.pdb
+C:\Users\Naitoasu\source\repos\Julearn\Julearn\obj\Debug\Julearn.csproj.AssemblyReference.cache
+C:\Users\Naitoasu\source\repos\Julearn\Julearn\obj\Debug\Julearn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Naitoasu\source\repos\Julearn\Julearn\obj\Debug\Julearn.csproj.CoreCompileInputs.cache
+C:\Users\Naitoasu\source\repos\Julearn\Julearn\obj\Debug\Julearn.exe
+C:\Users\Naitoasu\source\repos\Julearn\Julearn\obj\Debug\Julearn.pdb
