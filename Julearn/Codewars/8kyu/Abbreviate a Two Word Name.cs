@@ -13,3 +13,4 @@ public class Kata
             }
             return firstCh.ToUpper() + "." + secondCh.ToUpper();
   }
+}
