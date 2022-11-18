@@ -31,3 +31,13 @@ public static class Kata
             return result;
     }
 }
+
+        //using System.Text.RegularExpressions;
+
+        //public static class Kata
+        //{
+        //    public static string Disemvowel(string str)
+        //    {
+        //        return Regex.Replace(str, @"[aoueiAOUEI]", "");
+        //    }
+        //}
