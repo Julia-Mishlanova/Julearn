@@ -2,7 +2,7 @@ namespace ConsoleApp4
 {
     private static string ApplyCommands(string[] commands)
     {
-			var sB = new StringBuilder();
+	    var sB = new StringBuilder();
             for (int i = 0; i < commands.Length; i++)
             {
                 if (commands[i].StartsWith("push"))
